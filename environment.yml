@@ -22,4 +22,5 @@ dependencies:
   - tqdm
   - pyproj
   - icu
+  - xlrd
 
