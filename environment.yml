@@ -20,4 +20,6 @@ dependencies:
   - nodejs
   - bqplot
   - tqdm
-  - pyproj  
+  - pyproj
+  - icu
+
