@@ -3,7 +3,8 @@ channels:
   - conda-forge
   - bokeh
 dependencies:
-  - python=3.5
+  - python
+  - ipython
   - jupyter
   - pandas
   - numpy
@@ -16,5 +17,4 @@ dependencies:
   - nodejs
   - bqplot
   - tqdm
-  - pyproj
-  
+  - pyproj  
