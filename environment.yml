@@ -12,6 +12,7 @@ dependencies:
   - scipy
   - ffmpeg
   - html5lib
+  - lxml
   - ipywidgets
   - matplotlib
   - bokeh
